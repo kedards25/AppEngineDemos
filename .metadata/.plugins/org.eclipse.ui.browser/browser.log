@@ -1,0 +1,8 @@
+
+Nov 20, 2020 08:40:00.34 NEW SESSION
+Nov 20, 2020 08:40:00.35 [6496:9420:1120/084000.346:ERROR:device_event_log_impl.cc(208)] [08:40:00.346] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+Nov 20, 2020 08:49:50.45 [1120/084950.455:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Nov 24, 2020 08:16:08.24 NEW SESSION
+Nov 24, 2020 08:16:08.25 [12240:11608:1124/081608.242:ERROR:device_event_log_impl.cc(208)] [08:16:08.242] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+Nov 24, 2020 08:25:56.11 [1124/082556.115:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

@@ -1,0 +1,20 @@
+package com.learning.apimethodtrial;
+
+import com.google.api.server.spi.config.*;
+
+@Api(name = "myApi",
+version = "v1",
+namespace = @ApiNamespace(ownerDomain = "",
+    ownerName = "helloworld.example.com",
+    packagePath = ""))
+public class ApiTest {
+
+	
+	@ApiMethod(name = "sayHi")
+	 public MyBean sayHi(@Named("name") String name) {
+	    MyBean response = new MyBean();
+	    response.setData("Hi, " + name);
+
+	    return response;
+	  }
+}

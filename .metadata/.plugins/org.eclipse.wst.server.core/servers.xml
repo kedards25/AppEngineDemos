@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="0" hostname="localhost" id="App Engine Standard at localhost" name="App Engine Standard at localhost" runtime-id="App Engine Standard Runtime" server-type="com.google.cloud.tools.eclipse.appengine.standard.server" server-type-id="com.google.cloud.tools.eclipse.appengine.standard.server" start-timeout="240" stop-timeout="240" timestamp="0">
+    <list key="app-engine-server-modules-list" value0="org.eclipse.jst.jee.server:HelloAppEngine"/>
+    <list key="modules" value0="HelloAppEngine::org.eclipse.jst.jee.server:HelloAppEngine::jst.web::3.1"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="0" hostname="localhost" id="App Engine Standard at localhost (2)" name="App Engine Standard at localhost (2)" runtime-id="App Engine Standard Runtime" server-type="com.google.cloud.tools.eclipse.appengine.standard.server" server-type-id="com.google.cloud.tools.eclipse.appengine.standard.server" start-timeout="240" stop-timeout="240" timestamp="0">
+    <list key="app-engine-server-modules-list" value0="org.eclipse.jst.jee.server:ApiMethodTrial"/>
+    <list key="modules" value0="ApiMethodTrial::org.eclipse.jst.jee.server:ApiMethodTrial::jst.web::3.1"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="0" hostname="localhost" id="App Engine Standard at localhost (3)" name="App Engine Standard at localhost (3)" runtime-id="App Engine Standard Runtime" server-type="com.google.cloud.tools.eclipse.appengine.standard.server" server-type-id="com.google.cloud.tools.eclipse.appengine.standard.server" start-timeout="240" stop-timeout="240" timestamp="0">
+    <list key="app-engine-server-modules-list" value0="org.eclipse.jst.jee.server:DataStoreDemo"/>
+    <list key="modules" value0="DataStoreDemo::org.eclipse.jst.jee.server:DataStoreDemo::jst.web::3.1"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="0" hostname="localhost" id="App Engine Standard at localhost (4)" name="App Engine Standard at localhost (4)" runtime-id="App Engine Standard Runtime" server-type="com.google.cloud.tools.eclipse.appengine.standard.server" server-type-id="com.google.cloud.tools.eclipse.appengine.standard.server" start-timeout="240" stop-timeout="240" timestamp="0">
+    <list key="app-engine-server-modules-list" value0="org.eclipse.jst.jee.server:DataStoreMVC"/>
+    <list key="modules" value0="DataStoreMVC::org.eclipse.jst.jee.server:DataStoreMVC::jst.web::3.1"/>
+  </server>
+</servers>

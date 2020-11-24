@@ -1,0 +1,8 @@
+
+public class Demo {
+	public static void main(String[] args) {
+
+		double z=(Math.ceil(3.4) + Math.pow(2,3));
+        System.out.println(z);
+	}
+}
